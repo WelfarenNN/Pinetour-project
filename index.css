@@ -63,6 +63,7 @@
   flex-direction: column;
   align-items: center;
   padding-top: 169px;
+  gap: 40px;
 }
 #textpuremagic {
   width: 618px;
