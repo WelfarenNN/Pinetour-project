@@ -21,6 +21,7 @@
   padding-left: 118px;
   padding-right: 118px;
   align-items: center;
+  position: fixed;
 }
 #innerheadertop {
   width: 392px;
